@@ -7,7 +7,9 @@
 
 fitxers:
    
-   ./PRACTICA2.md
+- [practica2](./PRACTICA2.md)
+
+- 
    ./format.md
    ./enllacos_i_imatges.md
    ./taules_i_codi.md
