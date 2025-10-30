@@ -7,7 +7,7 @@
 
 fitxers:
    
-- [practica2](./PRACTICA2.md)
+- [practica2](./README.md)
 
 - 
    ./format.md
